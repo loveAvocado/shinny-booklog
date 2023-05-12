@@ -1,0 +1,20 @@
+#sidebar {
+    position:absolute;
+    margin-left: 0%;
+    border: 2em;
+}
+
+nav {
+    width: 150px;
+    height: 100%;
+    position: fixed;
+    border-right: 2px solid #181818;
+    top: 100px;
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    left: 0;
+}
+
+main {
+    margin-left: 150px;
+}
